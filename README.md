@@ -26,11 +26,13 @@
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin,instagram,twitter,)](https://sauravganguly2023.netlify.app)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sauravganguly2018&show_icons=true&theme=transparent)
+## 📈 Github activity 🔝
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sauravganguly2018&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Saurav Ganguly's GitHub stats](https://github-readme-stats.vercel.app/api?username=sauravganguly2018&show_icons=true&theme=transparent)
 
-[![Saurav Ganguly's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sauravganguly)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sauravganguly2018&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Saurav Ganguly's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sauravganguly&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sauravganguly2018&theme=transparent)](https://git.io/streak-stats)
 
