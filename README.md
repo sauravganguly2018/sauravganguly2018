@@ -20,7 +20,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,php,react,mysql,mongodb)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,r,postman,git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,r,sass,postman,git,vscode)](https://skillicons.dev)
 
 ## 👨 Social profiles
 
